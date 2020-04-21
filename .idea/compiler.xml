@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fall-2019-va-selenium-project" />
+        <module name="fall-2019-cucumber-project" />
       </profile>
     </annotationProcessing>
   </component>
