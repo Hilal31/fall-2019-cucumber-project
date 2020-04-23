@@ -10,7 +10,8 @@ import org.junit.runner.RunWith;
         //to specify location of file use glue and paste from step definitions class
         glue = "com/cybertek/library/step_definitions",
         //
-        dryRun = true
+        dryRun = false,
+        tags= "@wip" //we can use and, or, not and tags from feature file
 
 )
 
